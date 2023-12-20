@@ -5,7 +5,6 @@ esp8266:
 
 esphome:
   name: $node_name
-  board: $board
   project:
     name: "dentra.ewh"
     version: $ewh_version
